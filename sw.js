@@ -1,4 +1,4 @@
-const CACHE_NAME = 'love-story-cache-v16'
+const CACHE_NAME = 'love-story-cache-v17'
 const URLS_TO_CACHE = ['/', '/index.html', '/manifest.json', '/images/icon-heart.svg', '/maze.html', '/images/photo-1.jpeg', '/images/photo-2.jpeg', '/images/photo-3.jpeg', '/images/photo-4.jpeg', '/assets/index-new.js', '/media/bg-audio.mp3']
 
 self.addEventListener('install', (event) => {
